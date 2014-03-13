@@ -74,6 +74,6 @@ thresholds: {
 ```
 
 ### default
-The default category to throw an item in if it can't be classified in any of the categories. The default value of `default` is `"unclassified"`.
+The default category to throw an item in if it can't be classified in any of the categories. The default value of `default` is `"unclassified"`. (dump all of these into a queue, and then classify them)
 
 
